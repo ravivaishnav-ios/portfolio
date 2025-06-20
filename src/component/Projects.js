@@ -91,13 +91,23 @@ const projects = [
     link: "https://apps.apple.com/in/app/nactus/id1587395898",
     thumbnail:require('../assets/wtrend.png'),
   
-  }
+  },
+   {
+    id: 11,
+    title: "Reel – Cinema Ticket Booking App",
+    platform: "React Naitve",
+    description:
+      "Developed and maintained a full-featured React native application for Reel Cinemas under the Emaar Group",
+    link: "https://apps.apple.com/in/app/nactus/id432316358",
+    thumbnail:require('../assets/reel.png'),
+  
+  },
 ];
 
 
 const Projects = () => {
   return (
-    <div style={{ padding: 20, maxWidth: 900, margin: "0 auto", fontFamily: "Arial, sans-serif" }}>
+    <div style={{ padding: 20, maxWidth: 900, margin: "0 auto",backgroundColor: '#282c34', fontFamily: "Arial, sans-serif" }}>
       <h1 style={{ textAlign: "center", marginBottom: 40 }}>My Projects</h1>
       <div
         style={{
