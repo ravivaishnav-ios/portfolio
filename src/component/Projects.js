@@ -82,6 +82,16 @@ const projects = [
     link: "https://apps.apple.com/in/app/nactus/id1090907884",
     thumbnail:require('../assets/bar.png'),
   },
+  {
+    id: 10,
+    title: "Wtrend – Social Networking App",
+    platform: "Flutter (Dart)",
+    description:
+      "Social app like Twitter in this user can post image text and status according to location and city wise",
+    link: "https://apps.apple.com/in/app/nactus/id1587395898",
+    thumbnail:require('../assets/wtrend.png'),
+  
+  }
 ];
 
 
