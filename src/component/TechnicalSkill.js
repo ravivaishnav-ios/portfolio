@@ -10,7 +10,7 @@ const TechnicalSkill = () => (
         <strong>Tools & Technologies:</strong> Visual Code, Xcode, Android Studio and Github, SVN, Sourcetree, Postman, Azure DevOps, NewRelic, jest.<br />
         <strong>Security Management:</strong> SSL Encryption, vulnerabilities, Encryption & Decryption, Local storage and Keychain, Oauth 2.0, JWT.<br />
         <strong>Design:</strong> Figma, Adobe XD<br />
-        <strong>Methodologies:</strong> Agile, Scrum, Waterfall<br />
+        <strong>Methodologies:</strong> Agile, Scrum, Waterfall, Micro-Frontends(+CDN) <br />
         <strong>Platforms:</strong> iOS, Android, Web<br />
         <strong>Other Skills:</strong> Unit Testing, UI Testing, Code Review, CI/CD, App Store Deployment, Play Store Deployment, App Analytics, Performance Optimization, Accessibility Compliance.
     </p>

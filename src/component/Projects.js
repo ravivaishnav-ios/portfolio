@@ -107,8 +107,9 @@ const projects = [
 
 const Projects = () => {
   return (
-    <div style={{ padding: 20, maxWidth: 900, margin: "0 auto",backgroundColor: '#282c34', fontFamily: "Arial, sans-serif" }}>
-      <h1 style={{ textAlign: "center", marginBottom: 40 }}>My Projects</h1>
+    <header style={{backgroundColor: '#282c34'}}>
+    <div style={{ padding: 20, maxWidth: 900, margin: "0 auto", fontFamily: "Arial, sans-serif" }}>
+      <h1 style={{ textAlign: "center", marginBottom: 40 ,color:'white'}}>My Projects</h1>
       <div
         style={{
           display: "grid",
@@ -166,6 +167,7 @@ const Projects = () => {
         ))}
       </div>
     </div>
+    </header>
   );
 //   <section style={{ padding: '20px' }} className="px-6 py-12 bg-gray-100">
 //     <h2 className="text-3xl font-bold text-center mb-8">My Projects</h2>
